@@ -5,7 +5,6 @@ import com.consultadd.SpringBootAssignment.SpringBootAssignment.repository.ItemR
 import com.consultadd.SpringBootAssignment.SpringBootAssignment.service.ItemService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 import java.util.Optional;
 
