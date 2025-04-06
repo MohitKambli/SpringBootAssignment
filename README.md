@@ -1,4 +1,4 @@
-# Item Management System
+# Inventory Management System
 A simple Spring Boot REST API for managing items using JPA and MySQL.
 
 ## Setup Instructions
