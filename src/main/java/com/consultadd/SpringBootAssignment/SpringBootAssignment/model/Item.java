@@ -13,6 +13,9 @@ public class Item {
     @Column(nullable = false)
     private String name;
 
+    @Column(nullable = false)
+    private Double price;
+
     public Item() {}
 
     public Item(String name, Double price) {
@@ -43,8 +46,4 @@ public class Item {
     public void setPrice(Double price) {
         this.price = price;
     }
-
-    @Column(nullable = false)
-    private Double price;
-
 }
