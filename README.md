@@ -18,7 +18,7 @@ mvn clean install
 
 ### Run the Application
 ```
-mvn spring-bot:run
+mvn spring-boot:run
 ```
 
 ## API Endpoints
